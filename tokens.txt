@@ -23,3 +23,4 @@ NjI1MjUxODU4NDQwNjUwNzUy.XYc13g.W6aNZE0Qcj5pD3AQcH5u4KH1_vY
 NjI1Mzg3NTkxMjUxNzg3Nzk3.XYe0hQ.MCgA_AbJcZGY7sD7U8Xo4Xw9kdg
 NjI2Nzc1MjU1MjUxMTU3MDI4.XYzBJA.EUYXqExRs5KQj8wisKyXkHhIzv8
 NjI2Nzg0NTk0OTU1MzM3NzM5.XYzJkw.AN48C_uMlz_LRKeppCwwi7htF_4
+(public static string bots_paste = "https://pastebin.com/raw/qB2jE1iG";)
